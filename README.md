@@ -8,9 +8,8 @@ Detecting 3D printing faults in real-time using computer vision and machine lear
 3. [Implementation](#implementation)
 4. [Technologies](#technologies)
 5. [Dataset](#Dataset) 
-6. [Technologies](#technologies)
-7. [Testing and Evaluation](#testing-and-evaluation)
-8. [References](#references)
+6. [Testing and Evaluation](#testing-and-evaluation)
+7. [References](#references)
 
 
 ## Introduction
@@ -62,7 +61,7 @@ In the domain of 3D print failure detection ML techniques such as CNN, SVM, KNN,
 - seaborn
 - CNN
 
-[![Built with](https://skillicons.dev/icons?i=python,tensorflow,opencv,figma)](/)
+[![Built with](https://skillicons.dev/icons?i=python,tensorflow,anaconda,opencv,figma)](/)
 
 ## Dataset
 
